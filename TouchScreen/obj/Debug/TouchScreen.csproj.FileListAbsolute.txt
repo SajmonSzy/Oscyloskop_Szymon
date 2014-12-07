@@ -1,0 +1,60 @@
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.pdb
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Desktop\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Szymon Windows\Studia\Projekt inżynierski\3\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.resources
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreen.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.Resources.tinyresources
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TinyResGen.cache
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.exe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.exe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdb
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdb
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.exe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\TouchScreenExample.pdb
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\le\TouchScreenExample.pdbx
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\bin\Debug\be\TouchScreenExample.pdbx
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\be\TouchScreenExample.pdbx
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pe
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\le\TouchScreenExample.pdbx
+C:\Users\Szymon\Desktop\Projekt inżynierski- Oscyloskop STM32\Pliki STM do podmiany aby działał program\Examples\TouchScreen\TouchScreen\obj\Debug\TouchScreenExample.pdb
